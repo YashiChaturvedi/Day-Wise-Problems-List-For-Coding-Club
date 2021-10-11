@@ -1,3 +1,5 @@
+#YouTube Video : https://www.youtube.com/watch?v=5WZl3MMT0Eg
+
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
         maxSum = nums[0]
